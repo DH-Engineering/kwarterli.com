@@ -1,4 +1,4 @@
-################################### Default Configuration ##########################
+################################### Default Configuration #########################
 baseurl = "http://examplesite.com/"
 title = "Vex | hugo landing page template"
 theme = "variplait.de"
