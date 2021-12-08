@@ -1,4 +1,4 @@
-################################### Default Configuration ############################
+################################### Default Configuration ###########################
 baseurl = "http://examplesite.com/"
 title = "Vex | hugo landing page template"
 theme = "variplait.de"
@@ -13,7 +13,7 @@ disableLanguages = [] # disable language from h
 [markup.goldmark.renderer]
 unsafe = true
 
-#################################### Plugins ##########################################
+#################################### Plugins #########################################
 
 # CSS Plugins
 [[params.plugins.css]]
