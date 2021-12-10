@@ -23,7 +23,7 @@ jobs:
 
       - name: Build
         working-directory: ./exampleSite
-        run: hugo --minify --themesDir ../..  
+        run: hugo --minify --themesDir ../..  --destination="public"
         
       - name: SSH setup
         env:
