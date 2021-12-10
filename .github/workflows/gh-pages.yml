@@ -36,7 +36,7 @@ jobs:
           chmod -R 700 ~/.ssh        
       - name: Rsync deployment
         run: |
-                rsync -avz -e ssh --delete public/ blog@116.203.16.65:/var/www/blog/variplait.de
+                rsync -avz -e -v ssh --delete public/ blog@116.203.16.65:/var/www/blog/variplait.de
       #- name: Deploy
        # uses: peaceiris/actions-gh-pages@v3
        # if: github.ref == 'refs/heads/main'
