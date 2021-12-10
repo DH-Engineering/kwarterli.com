@@ -5,7 +5,7 @@ theme = "variplait.de"
 # post excert
 summarylength = "20"
 # google analytics
-googleAnalytics = "UA-215051798-1" # Ex: UA-123-45
+googleAnalytics = "UA-215051798-1" 
 # disable language
 disableLanguages = [fr] # disable language from here
 
