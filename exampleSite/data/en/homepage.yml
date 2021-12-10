@@ -1,0 +1,134 @@
+############################# banner ############################
+banner:
+  enable : true
+  title : "Linear Progression needs VARIPLAIT"
+  content : "Modern strength orientated weight and barbell training programs requires a constant increase in weight per training set. 
+  This causes the stress adaption of the body is what let grows the muscle. Unfortunatly that level where further increase in weight from one 
+  training set to another cannot be achieved with the typical weights provided with olympic plates starting with 1.25kg. The Variplait weight 
+  plate can be adjusted steplessly from 125g to 625g. "
+  image : "images/scheiben.png"
+  button:
+   enable : false
+   label : "Browse All Products"
+   link : "products"
+
+############################# Feature ############################
+features:
+  enable : true
+  title : "Our Core Features"
+  image : "images/waage.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+  - title : "Flexible"
+    icon : "tf-ion-cube"
+    content : "The empty Variplait weight only around 125g but can be setup in unlimited steps upto 625g with the included fill material"
+    
+    # feature item loop
+  - title : "Elegant Design"
+    icon : "tf-ion-earth"
+    content : "Variplait comes in 2 attractive colors and is produced in a very sturdy material"
+    
+    # feature item loop
+  - title : "Easy to use"
+    icon : "tf-ion-funnel"
+    content : "The fillmaterial is provided in 125g packages so the weight can be setup without a scale. For very precicse or indermediate weights the use 
+    of scale is recommended. For a clean, rapid and precise filling of the plates direct out of hand a funnel is provided in the package"
+
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+  - title : "High precice linear progressions"
+    icon : "tf-ion-egg"
+    content : "With down to 125g the linear progression of your training can be controlled on the single digit percent level. Allowing to increase training weight
+    really every training session"
+
+    # feature item loop
+  - title : "Lables and sealing tabe "
+    icon : "tf-ion-disc"
+    content : "With the included Stickers: 140, 375, 500, 625 the actual weight of th plate can be made visible even after years of useage. The high quality tape seals variplait safely"
+
+    # feature item loop
+  - title : "Re-weighting"
+    icon : "tf-ion-gear-b"
+    content : "Its possible to setup variplait to another weight aftwards. Simply remove the tape and pour the filler and use the scale for setting a new weight"
+
+
+############################# promo ############################
+promo:
+  enable : true
+  image : "images/hantel.png"
+  title : "Designed by professional trainers, your benefit"
+  content : "We developed Variplait out of a personal need. It greatly improved our personal training growth. We want to share our experience with you."
+
+
+############################# About Product #######################
+about_product:
+  enable : true
+  title : "Why Choose Variplait"
+  items:
+    # about product item loop
+    - image : "images/boxcontent.png"
+      title : "Whats in the box!"
+      content : "<ul>
+                <li>2 Variplaits</li>
+                <li>1 Funnel for easy filling</li>
+                <li>6 Sticker labels  140, 375, 500, 625  </li>
+                <li>6 bags filler each 125g item</li>
+                 <li>4 high quality sealing stickers/li> 
+                </ul> "
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+        
+    # about product item loop
+    - image : "images/variplaitflach.png"
+      title : "Variplait VS Conventional Fraction Plates"
+      content : "Conventional fraction plates are sometimes hard to find as demand is quite low as such also prices are very high. Just one size is not enough as you need to find 
+      your specific weight for your progression. Variplait can be trimmed to exactly they weight you need "
+      button:
+        enable : false
+        label : "Check Features"
+        link : "#"
+
+
+#################################### Products ########################
+products:
+  enable : false
+  title : "Checkout Our All Products"
+
+
+################################## Subscription ###################
+subscription:
+  enable : false
+  bg_image : "images/call-to-action.jpg"
+  title : "Get Product Updates"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
+  placeholder : "Your Email Address Here"
+
+
+############################## Testimonial ##########################
+testimonial:
+  enable : false
+  title : "Watch Review"
+  testimonial_item:
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      
+    # testimonial item loop
+    - name : "Jonathon Andrew"
+      designation : "CEO, Themefisher"
+      image : "images/avater.png"
+      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
