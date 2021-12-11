@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "http://www.variplait.de/"
-title = "Variplait variabel Micro Plates | Fractional Plates"
+title = "Variplait variable Micro Plates | Fractional Plates"
 theme = "variplait.de"
 # post excert
 summarylength = "20"
@@ -87,7 +87,7 @@ weight = 5
 logo = "images/logo.png"
 logo_width = "100px"
 # Meta data
-description = "Variplait is a set of two self fillable weighlifting plates and provding an flexible cost efficent alternative to Fractional Plates and Micro Plates. The wholesize is 50mm and fits to proffessional barbells and dumbbells "
+description = "Variplait are self fillable weighlifting plates a flexible alternative to Fractional Plates & Micro Plates. 50mm wholesize fits proffessional barbells"
 author = "DH Engineering"
 # currency
 currency = "€"
