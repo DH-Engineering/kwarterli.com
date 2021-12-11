@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "http://www.variplait.de/"
-title = "Variplait Micro Plates | Fractional Plates | 50 mm"
+title = "Variplait variabel Micro Plates | Fractional Plates"
 theme = "variplait.de"
 # post excert
 summarylength = "20"
