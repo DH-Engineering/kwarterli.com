@@ -8,7 +8,7 @@ summarylength = "20"
 googleAnalytics = "UA-215051798-1" 
 # disable language
 disableLanguages = [] # disable language from here
-
+enableRobotsTXT = true
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
