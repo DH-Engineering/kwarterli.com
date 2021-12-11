@@ -7,7 +7,7 @@ draft: false
 ---
 ### 1. Place the Variplaits on a scale
 First you need to decicde on the final weight of your variplaits. Typically weights we recommend are 140g which is the weight of the micro plate alone. Then 250g, there is a special bag containing only 110g of filler (110g + 140g = 250g). This bag is marked with an X. Use this bag first please. All other bags contains 125 of filler. So you can go for 140g, 250g, 375g, 500g, 625g. We recommend to use a scale for high precision! But you can also trust the weights of the filler bags. 
-![variplaits on scale ](/images/waage.png)
+![variplaits on scale ](/images/waage.png =x25)
 
 ### 2. Use the funnel to fill the filler
 In the package is also a small funnel, which support the easy and clean filling of the fractional plates. Simply put in the whole of the micro plate. It designed to stand alone. 
