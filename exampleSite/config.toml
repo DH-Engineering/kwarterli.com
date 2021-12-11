@@ -52,7 +52,7 @@ url = "https://cadonio.de/"
 weight = 2
 
 [[menu.main]]
-name = "blog"
+name = "Documentation"
 url = "blog"
 weight = 3
 
