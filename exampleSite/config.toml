@@ -39,6 +39,10 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 
 ###################################### Navigation ######################################
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 # homepage section menu
 [[menu.main]]
