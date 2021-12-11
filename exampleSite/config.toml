@@ -60,6 +60,11 @@ name = "Documentation"
 url = "blog"
 weight = 3
 
+[[menu.main]]
+name = "Contact"
+url = "mailto:info@variplait.de"
+weight = 4
+
 [[menu.footer]]
 name = "Impressum"
 url = "impressum"
@@ -82,10 +87,11 @@ weight = 5
 logo = "images/logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Variplait is a set of two self fillable weighlifting plates and provding an flexible cost efficent alternative to 
+Fractional Plates and Micro Plates. The wholsize is 50mm and fits to proffessional barbells and dumbbells "
+author = "DH Engineering"
 # currency
-currency = "$"
+currency = "€"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
