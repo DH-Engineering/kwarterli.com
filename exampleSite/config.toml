@@ -1,7 +1,7 @@
 ################################### Default Configuration ############################
-baseurl = "http://www.variplait.de/"
+baseurl = "http://www.kwarterli.com/"
 title = "Variplait variable Micro Plates | Fractional Plates"
-theme = "variplait.de"
+theme = "kwarterli.com"
 # post excert
 summarylength = "20"
 # google analytics
