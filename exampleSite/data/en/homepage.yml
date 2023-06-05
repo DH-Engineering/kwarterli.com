@@ -37,15 +37,18 @@ features:
     side by side. By aligning the quarters from different years, 
     you can quickly spot patterns, identify areas of improvement, and celebrate your financial milestones"
     
+
+
+
+  # feature at the right of the image
+  right_side:
+  
     # feature item loop
   - title : "User-Friendly Interface"
     icon : "tf-ion-funnel"
     content : "Kwarterli is designed with a clean and intuitive interface, making it effortless to navigate through your budget data. 
     Its user-friendly layout ensures that you can focus on what matters most—analyzing your financial progress."
-
-
-  # feature at the right of the image
-  right_side:
+  
     # feature item loop
   - title : "Local Data Storage"
     icon : "tf-ion-egg"
