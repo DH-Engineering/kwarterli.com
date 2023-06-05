@@ -1,12 +1,13 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Linear Progression needs VARIPLAIT"
-  content : "Modern strength orientated weight and barbell training programs requires a constant increase in weight per training set. 
-  This causes the stress adaption of the body is what let grows the muscle. Unfortunatly that level where further increase in weight from one 
-  training set to another cannot be achieved with the typical weights provided with olympic plates starting with 1.25kg. The Variplait weight 
-  plate can be adjusted steplessly from 125g to 625g. "
-  image : "images/scheiben.png"
+  title : "Introducing Kwarterli: Your Ultimate Budgeting Companion"
+  content : "Kwarterli is the must-have app for anyone looking to gain a comprehensive 
+  view of their finances over the years. With its powerful features, Kwarterli allows you to 
+  effortlessly generate a quarterly view of your budget and makes it incredibly easy to compare your 
+  expenses and savings across different periods.Gone are the days of analyzing your budget on a 
+  month-to-month basis, where the bigger picture can often get lost. Kwarterli takes your financial planning to the next level by presenting your budget in quarterly increments, providing you with a more meaningful and insightful overview."
+  image : "images/intro.png"
   button:
    enable : false
    label : "Browse All Products"
