@@ -19,44 +19,39 @@ banner:
 features:
   enable : true
   title : "Our Core Features"
-  image : "images/waage.png"
+
 
   # feature at the left of the image
   left_side:
     # feature item loop
-  - title : "Flexible"
+  - title : "Quarterly Budget Visualization"
     icon : "tf-ion-cube"
-    content : "The empty Variplait weight only around 125g but can be setup in unlimited steps upto 625g with the included fill material"
+    content : "Kwarterli empowers you to view your budget on a quarterly basis, allowing you 
+    to see how your income and expenses fluctuate over time. By breaking it 
+    down into quarters, you can easily identify trends and make informed financial decisions."
     
     # feature item loop
-  - title : "Elegant Design"
+  - title : "Comparative Analysis"
     icon : "tf-ion-earth"
-    content : "Variplait comes in 2 attractive colors and is produced in a very sturdy material"
+    content : " Comparative Analysis With Kwarterli, you can compare your budget across multiple years, 
+    side by side. By aligning the quarters from different years, 
+    you can quickly spot patterns, identify areas of improvement, and celebrate your financial milestones"
     
     # feature item loop
-  - title : "Easy to use"
+  - title : "User-Friendly Interface"
     icon : "tf-ion-funnel"
-    content : "The fillmaterial is provided in 125g packages so the weight can be setup without a scale. For very precicse or indermediate weights the use 
-    of scale is recommended. For a clean, rapid and precise filling of the plates direct out of hand a funnel is provided in the package"
+    content : "Kwarterli is designed with a clean and intuitive interface, making it effortless to navigate through your budget data. 
+    Its user-friendly layout ensures that you can focus on what matters most—analyzing your financial progress."
 
 
   # feature at the right of the image
   right_side:
     # feature item loop
-  - title : "High precice linear progressions"
+  - title : "Local Data Storage"
     icon : "tf-ion-egg"
-    content : "With down to 125g the linear progression of your training can be controlled on the single digit percent level. Allowing to increase training weight
-    really every training session"
+    content : "Kwarterli operates entirely locally, ensuring that your sensitive information stays securely within your device. Rest assured, your financial data 
+    never leaves your device, providing you with complete peace of mind and data privacy."
 
-    # feature item loop
-  - title : "Lables and sealing tabe "
-    icon : "tf-ion-disc"
-    content : "With the included Stickers: 140, 375, 500, 625 the actual weight of th plate can be made visible even after years of useage. The high quality tape seals variplait safely"
-
-    # feature item loop
-  - title : "Re-weighting"
-    icon : "tf-ion-gear-b"
-    content : "Its possible to setup variplait to another weight aftwards. Simply remove the tape and pour the filler and use the scale for setting a new weight"
 
 
 ############################# promo ############################
