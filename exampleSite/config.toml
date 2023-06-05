@@ -84,7 +84,7 @@ weight = 5
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/logo.png"
+logo = "/images/icon_512x512.png"
 logo_width = "100px"
 # Meta data
 description = "Variplait are self fillable weighlifting plates a flexible alternative to Fractional Plates & Micro Plates. 50mm wholesize fits proffessional barbells"
