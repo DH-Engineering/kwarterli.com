@@ -10,6 +10,7 @@ banner:
   expenses and savings across different periods.Gone are the days of analyzing your budget on a 
   month-to-month basis, where the bigger picture can often get lost. Kwarterli takes your financial planning to the next level by presenting your budget in quarterly increments, providing you with a more meaningful and insightful overview."
   image : "images/intro.png"
+  size: 100px
   button:
    enable : false
    label : "Browse All Products"
