@@ -10,7 +10,6 @@ banner:
   expenses and savings across different periods.Gone are the days of analyzing your budget on a 
   month-to-month basis, where the bigger picture can often get lost. Kwarterli takes your financial planning to the next level by presenting your budget in quarterly increments, providing you with a more meaningful and insightful overview."
   image : "images/intro.png"
-  size: 100px
   button:
    enable : false
    label : "Browse All Products"
@@ -60,7 +59,7 @@ features:
 
 ############################# promo ############################
 promo:
-  enable : true
+  enable : false
   image : "images/hantel.png"
   title : "Designed by professional trainers, your benefit"
   content : "We developed Variplait out of a personal need. It greatly improved our personal training growth. We want to share our experience with you."
@@ -68,7 +67,7 @@ promo:
 
 ############################# About Product #######################
 about_product:
-  enable : true
+  enable : false
   title : "Why Choose Variplait"
   items:
     # about product item loop
