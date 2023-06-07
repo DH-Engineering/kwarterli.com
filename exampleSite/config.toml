@@ -57,7 +57,7 @@ weight = 2
 
 [[menu.main]]
 name = "Documentation"
-url = "Documentation"
+url = "documentation"
 weight = 3
 
 [[menu.main]]
