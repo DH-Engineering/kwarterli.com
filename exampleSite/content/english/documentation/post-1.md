@@ -1,9 +1,8 @@
 ---
-title: "How to setup Variplait"
+title: "How to use Kwarterli"
 date: 2019-10-17T11:22:16+06:00
-image: "images/scheiben.png"
 description : "All you need to know!"
-draft: false
+draft: true
 ---
 ### 1. Setting YNAB4 Budget Properties
 1. Open Budget properties from YNAB4 Menu Bar 
