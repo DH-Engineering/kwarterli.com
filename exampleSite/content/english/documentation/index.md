@@ -29,4 +29,4 @@ Choose the Reports Section of YNAB4:
 ![Scope ](/exampleSite/static/images/Kwarterli%20Drop.png) 
 
 ### 5. A PDF Document with Quarlery view is printed
-![Scope ](/exampleSite/static/images/Output.png) 
+![Scope ](/exampleSite/static/images/output.png) 
