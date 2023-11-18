@@ -10,7 +10,7 @@
 2. **Currency**: Please choose your budget currency. Currently EUR,USD,CAD and GBP is supported. Let us know if you are using a different currency we will create a new version for you. 
 **Datee Format**  Please choose English(United States). Unfortunatly other date formats use special characters, which cannot be parsed by the tool. 
 
-![Local Settings ](/exampleSite/static/images/LocalSettings.png)
+![Local Settings ](/images/LocalSettings.png)
 
 ### 2. CSV Report Export
 Choose the Reports Section of YNAB4:
