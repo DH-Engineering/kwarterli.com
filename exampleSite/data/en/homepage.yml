@@ -59,8 +59,9 @@ features:
 
 ############################# promo ############################
 promo:
-  enable : false
+  enable : true
   image : "images/hantel.png"
+  link: "https://apps.apple.com/de/app/kwarterli/id6449290781?mt=12"
   title : "Designed by professional trainers, your benefit"
   content : "We developed Variplait out of a personal need. It greatly improved our personal training growth. We want to share our experience with you."
 
