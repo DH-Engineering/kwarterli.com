@@ -45,22 +45,7 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
   priority = 0.5
 
 # homepage section menu
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
-[[menu.main]]
-name = "Shop"
-url = "https://cadonio.de/"
-weight = 2
-
-[[menu.main]]
-name = "Documentation"
-url = "documentation"
-weight = 3
-
-[[menu.main]]
+[[menu.footer]]
 name = "Contact"
 url = "mailto:info@variplait.de"
 weight = 4
@@ -84,8 +69,7 @@ weight = 5
 
 ########################### Default parameters ##########################
 [params]
-logo = "/images/icon_512x512.png"
-logo_width = "100px"
+
 # Meta data
 description = "Variplait are self fillable weighlifting plates a flexible alternative to Fractional Plates & Micro Plates. 50mm wholesize fits proffessional barbells"
 author = "DH Engineering"
