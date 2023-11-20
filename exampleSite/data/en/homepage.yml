@@ -55,11 +55,12 @@ features:
     content : "Kwarterli operates entirely locally, ensuring that your sensitive information stays securely within your device. Rest assured, your financial data 
     never leaves your device, providing you with complete peace of mind and data privacy."
 
-
+  image : "images/hantel.png"
+  link: "https://apps.apple.com/de/app/kwarterli/id6449290781?mt=12"
 
 ############################# promo ############################
 promo:
-  enable : true
+  enable : false
   image : "images/hantel.png"
   link: "https://apps.apple.com/de/app/kwarterli/id6449290781?mt=12"
   title : "Designed by professional trainers, your benefit"
