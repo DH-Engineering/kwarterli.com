@@ -15,7 +15,9 @@ banner:
    label : "Browse All Products"
    link : "products"
 
-############################# Feature ############################
+   <div style="text-align:center">
+  [![Alt text](images/intro.png)](https://www.google.com)
+</div>############################# Feature ############################
 features:
   enable : true
   title : "Our Core Features"
